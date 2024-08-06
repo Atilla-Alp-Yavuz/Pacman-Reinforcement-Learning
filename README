@@ -1,0 +1,4 @@
+There are three major strategies employed in three different cases.
+
+The first implementation of Reinforcement Learning is to modify the base Pacman game code provided by UC Berkeley.
+An agent that performs Q Learning has been implemented.
